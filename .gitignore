@@ -1,0 +1,8 @@
+embeded/include/config.h
+.pio/
+.vscode/
+build/
+__pycache__/
+api/venv/
+*.pyc
+.DS_Store

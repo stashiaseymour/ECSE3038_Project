@@ -1,8 +1,10 @@
-embeded/include/config.h
-.pio/
-.vscode/
 build/
-__pycache__/
+# Python
+api/__pycache__/
 api/venv/
-*.pyc
-.DS_Store
+
+# ESP32
+embedded/.pio/
+embedded/.vscode/
+
+embedded/include/config.h

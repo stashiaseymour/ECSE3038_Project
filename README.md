@@ -68,7 +68,7 @@ The Simple Smart Hub is an Internet of Things (IoT) system that simulates automa
 
 ---
 
-##  Deployment Guide
+##  Setup and Execution
 
 ###  ESP32
 - Code is written using PlatformIO (VS Code extension)
@@ -78,7 +78,6 @@ The Simple Smart Hub is an Internet of Things (IoT) system that simulates automa
 ###  Backend
 - Deployed to Render as a Python Web Service
 - Exposes API endpoints under `/api/`
-- No database is used — sensor data and settings are stored in memory
 
 ###  Frontend
 - Hosted on Netlify
